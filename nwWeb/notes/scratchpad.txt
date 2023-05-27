@@ -1,0 +1,8 @@
+
+Color Pallette
+
+#040303 Color 1
+#461111 Color 2
+#A13333 Color 3
+#B3541E Color 4
+
