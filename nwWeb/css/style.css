@@ -1,8 +1,22 @@
-body {
-    background-color: #040303;
-    color: #B3541E;
-}
+/* This file contains the CSS styles for my website. */
 
-nav {
-    font-size: 24px;
-}
+/* Header */
+
+h1 {
+    color: red;
+    font-size: 2em;
+  }
+  
+  /* Body */
+  
+  body {
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+  /* Footer */
+  
+  footer {
+    color: black;
+    font-size: 1em;
+  }
