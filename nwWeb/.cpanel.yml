@@ -1,7 +1,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/nwWeb
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp /home2/jhiatt/repositories/nwWeb/index.php $DEPLOYPATH
+    - /bin/cp -R /home2/jhiatt/repositories/nwWeb/images $DEPLOYPATH
+    - /bin/cp -R /home2/jhiatt/repositories/nwWeb/css $DEPLOYPATH
+    - /bin/cp -R /home2/jhiatt/repositories/nwWeb/js $DEPLOYPATH
